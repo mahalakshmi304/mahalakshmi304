@@ -75,7 +75,6 @@
 <table align="center" width="100%">
   <tr>
     <th>Project</th>
-    <th>Description</th>
     <th>Tech Stack</th>
     <th>Link</th>
   </tr>
