@@ -71,32 +71,12 @@
 <br>
 
 ## Featured Projects  
-
-<table align="center" width="100%">
   <tr>
     <th>Project</th>
     <th>Tech Stack</th>
     <th>Link</th>
   </tr>
-    <td>
-      🔗 <a href="https://github.com/mahalakshmi/echosoul" " target="_blank">View →</a>
-    </td>
-  </tr>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
-    </td>
-  </tr>
-    <td>
-      🔗 <a href="https://github.com/mahalakshmi/vulnerability-scanner"" target="_blank">View →</a>
-    </td>
-  </tr>
-    <td>
-        🔗 <a href="https://github.com/mahalakshmi/expense-tracker" target="_blank">View →</a>
-    </td>
-  </tr>
-</table>
-
-
+ 
 ##  DSA & Problem Solving Achievements
 
 ###  **1207+ Problems Solved Across Platforms**
