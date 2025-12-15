@@ -78,10 +78,6 @@
     <th>Tech Stack</th>
     <th>Link</th>
   </tr>
-
-  <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
-    <td>
       A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
     </td>
     <td>
