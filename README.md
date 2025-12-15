@@ -72,7 +72,7 @@
 
 ## Featured Projects  
   <tr>
-    COMMING SOON
+    "COMMING SOON"
   </tr>
  
 ##  DSA & Problem Solving Achievements
