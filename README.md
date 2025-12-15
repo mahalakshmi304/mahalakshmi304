@@ -72,9 +72,7 @@
 
 ## Featured Projects  
   <tr>
-    <th>Project</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
+    COMMING SOON
   </tr>
  
 ##  DSA & Problem Solving Achievements
