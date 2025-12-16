@@ -81,9 +81,9 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 30 | Knight Rank |
+| **LeetCode** | 20 | Knight Rank |
 | **CodeChef** | 10 | 1601 |
-| **CodeForces** | 13 | 699 |
+| **CodeForces** | 1 | 699 |
 
 
 
