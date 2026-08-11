@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✦ MΛHΛLΛKSHMI.J ✦
+  ✦ MΛHΛLΛKSHMI J ✦
 </h1>
 <p align="center">
 💻 Full Stack Developer | 🎮 Game Developer | 🎨 Creative Designer  
