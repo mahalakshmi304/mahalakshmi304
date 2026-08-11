@@ -39,9 +39,9 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 20 | Knight Rank |
-| **CodeChef** | 10 | 1601 |
-| **CodeForces** | 1 | 699 |
+| **LeetCode** | 535 | Knight Rank |
+| **CodeChef** | 253 | 1295 |
+| **CodeForces** | 6 | 699 |
 
 ##  GitHub Analytics
 
