@@ -35,8 +35,7 @@
 </p>
 
 ## 🌐 Socials:
-[![linkedin](https://www.linkedin.com/in/mahalakshmi-j-4548373a2)]
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit28.24bcb304@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahalakshmi-j-4548373a2)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit28.24bcb304@gmail.com)
 
 
 
