@@ -11,7 +11,7 @@
 </div>
 </div>
 <p align="center">
-
+</p>
 ## 💫 About Me
 
 🎓 Student & aspiring **Full Stack Developer**
