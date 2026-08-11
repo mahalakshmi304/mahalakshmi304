@@ -14,15 +14,15 @@
 
 <p align="center">
 
-🎓 Student & aspiring **Full Stack Developer**
+  🎓 Student & aspiring **Full Stack Developer**
 
-💻 Currently learning **HTML, CSS, JavaScript & Python**
+  💻 Currently learning **HTML, CSS, JavaScript & Python**
+  
+  🎮 Interested in **Game Development**
 
-🎮 Interested in **Game Development**
+  🎬 Passionate about **Video Editing & Creative Design**
 
-🎬 Passionate about **Video Editing & Creative Design**
-
-🌱 Always learning something new!
+  🌱 Always learning something new!
 
 </p>
 
