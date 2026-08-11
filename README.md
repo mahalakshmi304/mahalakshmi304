@@ -1,7 +1,10 @@
-<div align="center">
+<h1 align="center">
+  ✦ MΛHΛLΛKSHMI.exe ✦
+</h1>
 
-# 🌸 MAHALAKSHMI J 🌸
-
+<p align="center">
+  <i>turning ideas into code ✨</i>
+</p>
 ### 💻 Full Stack Developer | 🎮 Game Developer | 🎨 Creative Designer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
