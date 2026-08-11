@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Sky&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=fffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=Waves&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=fffff&animation=twinkling"/>
 </p>
 </div>
 
