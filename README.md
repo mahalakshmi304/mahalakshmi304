@@ -2,7 +2,7 @@
   ✦ MΛHΛLΛKSHMI.J ✦
 </h1>
 <p align="center">
-### 💻 Full Stack Developer | 🎮 Game Developer | 🎨 Creative Designer  
+💻 Full Stack Developer | 🎮 Game Developer | 🎨 Creative Designer  
 </p>
 <p align="center">
 
