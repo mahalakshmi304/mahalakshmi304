@@ -33,7 +33,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,mongodb,nodejs&perline=4"/>
 
 </p>
+##  DSA & Problem Solving Achievements
 
+###  **1207+ Problems Solved Across Platforms**
+
+| Platform | Problems Solved | Max Rating |
+|----------|----------------|------------|
+| **LeetCode** | 20 | Knight Rank |
+| **CodeChef** | 10 | 1601 |
+| **CodeForces** | 1 | 699 |
 
 ##  GitHub Analytics
 
