@@ -51,14 +51,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
 </picture>
  
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mahalakshmi304-cloud&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
 ###  Fun Fact
 *"👾 Fun fact: I focus on writing clean code that makes games smoother, smarter, and scalable!"*
 
