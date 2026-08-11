@@ -9,6 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 </div>
+
 <p align="center">
 
 ## 💫 About Me
@@ -23,6 +24,7 @@
 
 🌱 Always learning something new!
 
+</p>
 ## 🛠️ Tech Stack
 
 <p align="center">
